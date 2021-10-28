@@ -6,4 +6,5 @@ cmake_minimum_required (VERSION 3.8)
 project ("polymorphic_value")
 
 # Include sub-projects.
+add_subdirectory(external/polymorphic_vaule)
 add_subdirectory ("polymorphic_value")
